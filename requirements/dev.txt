@@ -163,7 +163,7 @@ sphinxcontrib-serializinghtml==1.1.10
     #   sphinx
 tox==4.15.1
     # via -r dev.in
-trio==0.25.1
+trio==0.26.0
     # via -r tests.txt
 typing-extensions==4.11.0
     # via
